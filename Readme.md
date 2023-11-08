@@ -15,5 +15,5 @@ I'm a Software Engineer and student who currently is learning Software Engineeri
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Takinnuoye5&show_icons=true&include_all_commits=true&hide_border=true" alt="Timothy's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takinnuoye5&langs_count=8&layout=compact&hide_border=true" alt="Timothy's GitHub stats" /> |
 | ------------- | ------------- |
